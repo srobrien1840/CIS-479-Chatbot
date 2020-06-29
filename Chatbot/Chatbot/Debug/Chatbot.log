@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\School\CIS 479\Project 6\CIS-479-Chatbot\Chatbot\Chatbot\Source.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\School\CIS 479\Project 6\CIS-479-Chatbot\Chatbot\Chatbot\Source.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  Chatbot.vcxproj -> C:\School\CIS 479\Project 6\CIS-479-Chatbot\Chatbot\Debug\Chatbot.exe
